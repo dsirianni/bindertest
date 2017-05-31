@@ -1,7 +1,6 @@
 name: p4env
 
 channels:
-  - psi4/label/devel
   - psi4
 
 dependencies:
