@@ -1,12 +1,7 @@
-name: p4env
-
-channels:
-  - psi4
+name: dftoptbench
 
 dependencies:
   - matplotlib
   - pandas
   - scipy
-  - psi4
-  - psi4-deps
-  - python=3.5
+  - python=3.6
