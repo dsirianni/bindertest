@@ -1,7 +1,11 @@
 name: dftoptbench
 
+channels:
+  - conda-forge
+
 dependencies:
+  - python=3.6
   - matplotlib
   - pandas
   - scipy
-  - python=3.6
+  - jupyter_contrib_nbextensions
